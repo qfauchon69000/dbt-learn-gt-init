@@ -1,0 +1,13 @@
+default:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      threads: 16
+      account: abwhgnv-qf06440
+      user: QFAUCHON
+      database: analytics
+      warehouse: transforming
+      schema: dbt_bhipple
+      password: (7zL28E|/ahTB8b
+      role: df
